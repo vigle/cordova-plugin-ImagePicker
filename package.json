@@ -1,9 +1,9 @@
 {
-  "name": "dfocus-fm-cordova-plugin-imagepicker",
-  "version": "1.2.4",
+  "name": "dfocus-fm-app-cordova-plugin-imagepicker",
+  "version": "0.9.0",
   "description": "Cordova ImagePicker Plugin",
   "cordova": {
-    "id": "dfocus-fm-cordova-plugin-imagepicker",
+    "id": "dfocus-fm-app-cordova-plugin-imagepicker",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhushiyao/cordova-plugin-ImagePicker.git"
+    "url": "https://github.com/vigle/cordova-plugin-ImagePicker"
   },
   "keywords": [
     "cordova",
