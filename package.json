@@ -19,7 +19,7 @@
     "cordova-android",
     "ImagePicker"
   ],
-  "author": "vigle",
+  "author": "jiaxunwei",
   "license": "Apache-2.0",
   "engines": {
     "cordovaDependencies": {
