@@ -1,6 +1,6 @@
 {
   "name": "dfocus-fm-app-cordova-plugin-imagepicker",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Cordova ImagePicker Plugin",
   "cordova": {
     "id": "dfocus-fm-app-cordova-plugin-imagepicker",
